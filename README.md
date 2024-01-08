@@ -18,7 +18,10 @@ Link do mini curso: https://pages.hashtagtreinamentos.com/inscricao-minicurso-py
 - Formatação de e-mail com python
 
 ## Biblioteca
-win32com.client
+
+````
+pip install pywin32
+````
 
 ````
 pip install pandas
